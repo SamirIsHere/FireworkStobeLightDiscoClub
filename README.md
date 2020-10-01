@@ -1,2 +1,2 @@
-# FireworkStobeLightDiscoClub
-Samir Presents the strobe light fantartical.
+# p5.play-boilerplate
+Boiler plate for p5.play
